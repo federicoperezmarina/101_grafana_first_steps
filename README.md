@@ -13,3 +13,12 @@ $ docker run -d --name=grafana -p 3000:3000  \
     -v grafana-storage:/var/lib/grafana \
     grafana/grafana
 ```
+
+Now we have launched the grafana with docker we can go to:
+```sh
+http://localhost:3000
+```
+
+We have to introduce the user 'admin', pass 'admin' and do it again. Now we should reach to this page.
+
+![Grafana first page](http://url/to/img.png)
