@@ -73,7 +73,16 @@ In the creation we can see two boxes that are showing us the data source and the
 The other three options of creation is to create a folder in order to organize all our dashboards, the import is to reuse dashboards created by other people (it's very useful) and the alert rule that is used to contact with us when some metric is wanted to be reviewed.
 
 ## Grafana - Dashboards
+![Grafana - Dashboardas](img/grafana_dashboard_section.png)
+
 ## Grafana - Explore
+![Grafana - Explore](img/grafana_explore_section.png)
+
 ## Grafana - Alerting
+![Grafana - Alerting](img/grafana_alert_section.png)
+
 ## Grafana - Configuration
+![Grafana - Configuration](img/grafana_config_section.png)
+
 ## Grafana - Server Admin
+![Grafana - Server admin](img/grafana_admin_section.png)
