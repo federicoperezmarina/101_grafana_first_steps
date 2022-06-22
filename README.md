@@ -21,4 +21,4 @@ http://localhost:3000
 
 We have to introduce the user 'admin', pass 'admin' and do it again. Now we should reach to this page.
 
-![Grafana first page](http://url/to/img.png)
+![Grafana first page](https://github.com/federicoperezmarina/101_grafana_first_steps/blob/main/img/grafana_first_page.png)
