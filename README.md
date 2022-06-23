@@ -73,7 +73,16 @@ In the creation we can see two boxes that are showing us the data source and the
 The other three options of creation is to create a folder in order to organize all our dashboards, the import is to reuse dashboards created by other people (it's very useful) and the alert rule that is used to contact with us when some metric is wanted to be reviewed.
 
 ## Grafana - Dashboards
-![Grafana - Dashboardas](img/grafana_dashboard_section.png)
+![Grafana - Dashboards](img/grafana_dashboard_section.png)
+![Grafana - Dashboards](img/grafana_dashboard_section_explained.png)
+
+In the "Dashboards section" we are able to:
+* Go to de Home / Init url. 
+* Search in our dashboards with a list or with a searcher.
+* Create a playlist to cycle dashboards on TVs without user control.
+* Look for an snapshots.
+* Search a panel in the library panels.
+
 
 ## Grafana - Explore
 ![Grafana - Explore](img/grafana_explore_section.png)
