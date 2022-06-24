@@ -86,6 +86,9 @@ In the "Dashboards section" we are able to:
 
 ## Grafana - Explore
 ![Grafana - Explore](img/grafana_explore_section.png)
+![Grafana - Explore explained](img/grafana_explore_section_explained.png)
+
+In this section we can explore the different data sources to look the info that we want. In our case we have selected the data source "TestData DB" and in the scenario we have selected "Random walk" in order to get a graph and a table with the information.
 
 ## Grafana - Alerting
 ![Grafana - Alerting](img/grafana_alert_section.png)
