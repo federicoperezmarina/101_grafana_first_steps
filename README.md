@@ -7,9 +7,6 @@ This repository to learn about grafana dashboarding &amp; alerting
 * [Grafana - Creating step](#grafana---creating-step)
 * [Grafana - Dashboards](#grafana---dashboards)
 * [Grafana - Explore](#grafana---explore)
-* [Grafana - Alerting](#grafana---alerting)
-* [Grafana - Configuration](#grafana---configuration)
-* [Grafana - Server Admin](#grafana---server-admin)
 
 
 ## Grafana in a Docker container
@@ -89,12 +86,3 @@ In the "Dashboards section" we are able to:
 ![Grafana - Explore explained](img/grafana_explore_section_explained.png)
 
 In this section we can explore the different data sources to look the info that we want. In our case we have selected the data source "TestData DB" and in the scenario we have selected "Random walk" in order to get a graph and a table with the information.
-
-## Grafana - Alerting
-![Grafana - Alerting](img/grafana_alert_section.png)
-
-## Grafana - Configuration
-![Grafana - Configuration](img/grafana_config_section.png)
-
-## Grafana - Server Admin
-![Grafana - Server admin](img/grafana_admin_section.png)
