@@ -14,9 +14,7 @@ First of all we are going to install grafana in a docker container to show how i
 
 ```sh
 $ docker volume create grafana-storage
-$ docker run -d --name=grafana -p 3000:3000  \
-    -v grafana-storage:/var/lib/grafana \
-    grafana/grafana
+$ docker run -d --name=grafana -p 3000:3000 -v grafana-storage:/var/lib/grafana grafana/grafana
 ```
 
 Now we have launched the grafana with docker we can go to:
